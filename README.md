@@ -1,4 +1,4 @@
-# toku
+# Toku App 🔥
 
 It is an application to teach Japanese for beginners it divides a part for family members and numbers and colors and some famous sentences that can benefit the user and there is also an audio clip for each word to pronounce it correctly
 
